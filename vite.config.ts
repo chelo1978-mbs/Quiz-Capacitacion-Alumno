@@ -11,7 +11,6 @@ export default defineConfig({
         registro: path.resolve(__dirname, 'registro.html'),
         quiz: path.resolve(__dirname, 'quiz.html'),
         dashboard: path.resolve(__dirname, 'dashboard.html'),
-        profesor: path.resolve(__dirname, 'profesor.html'),
       },
     },
   },
